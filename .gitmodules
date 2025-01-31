@@ -1,0 +1,6 @@
+[submodule "paisa-web"]
+	path = paisa-web
+	url = https://github.com/greed-d/paisa-web
+[submodule "paisa-server"]
+	path = paisa-server
+	url = https://github.com/greed-d/paisa-server
